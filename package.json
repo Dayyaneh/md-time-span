@@ -1,0 +1,20 @@
+{
+  "name": "md-time-span",
+  "version": "1.0.0",
+  "description": "This is a class for time span",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dayyaneh/md-time-span.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dayyaneh/md-time-span/issues"
+  },
+  "homepage": "https://github.com/Dayyaneh/md-time-span#readme"
+}
