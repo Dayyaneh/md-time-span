@@ -2,10 +2,8 @@
   "name": "md-time-span",
   "version": "1.0.0",
   "description": "This is a class for time span",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "md-time-span.js",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Dayyaneh/md-time-span.git"
