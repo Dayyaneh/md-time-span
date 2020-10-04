@@ -1,5 +1,5 @@
 {
-  "name": "md-time-span",
+  "name": "@dayyaneh/md-time-span",
   "version": "1.0.0",
   "description": "This is a class for time span",
   "main": "md-time-span.js",
