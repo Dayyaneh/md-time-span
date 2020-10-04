@@ -3,13 +3,15 @@
   "version": "1.0.0",
   "description": "This is a class for time span",
   "main": "md-time-span.js",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dayyaneh/md-time-span.git"
+    "url": "https://github.com/Dayyaneh/md-time-span.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "mohammad dayyaneh",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Dayyaneh/md-time-span/issues"
